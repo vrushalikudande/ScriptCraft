@@ -180,10 +180,4 @@ echo -e "${GREEN}Hello, $name!${NC}"
 
 Remember: Every master programmer started with their first "Hello, World!" You've got this! 💪
 
-## ⏭️ What's Next?
-After completing this challenge, you'll be ready for:
-- File Explorer challenge
-- System Info Dashboard
-- And much more!
-
 Happy coding! 🚀
